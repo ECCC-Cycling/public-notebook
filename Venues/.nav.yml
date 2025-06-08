@@ -1,3 +1,5 @@
 nav:
- - Venues.md
- - Velodromes.md
+  - Venues.md
+  - Velodromes.md
+  - All Venues:
+    - "*"

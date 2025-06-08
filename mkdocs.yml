@@ -7,6 +7,7 @@ theme:
   name: material
   custom_dir: overrides
   logo: assets/images/eccc-logo-2x.png
+  favicon: assets/images/favicon-96x96.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

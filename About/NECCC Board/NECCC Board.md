@@ -1,0 +1,4 @@
+---
+slug: board
+---
+# NECCC Board

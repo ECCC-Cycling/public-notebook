@@ -1,0 +1,5 @@
+---
+slug: luke
+aliases:
+  - Luke
+---

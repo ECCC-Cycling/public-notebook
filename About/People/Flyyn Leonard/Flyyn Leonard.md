@@ -1,0 +1,5 @@
+---
+slug: flyyn
+aliases:
+  - Flyyn
+---

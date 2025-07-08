@@ -47,7 +47,9 @@ plugins:
   - embed_file:
       callouts: true
   - awesome-nav
-  - obsidian-bridge
+  - obsidian-bridge:
+      invalid_link_attributes:
+        - '.invalid-link'
   - callouts
 
 hooks:
@@ -59,6 +61,7 @@ hooks:
 
 extra_css:
   - assets/stylesheets/brand.css
+  - assets/stylesheets/invalid-link.css
 
 exclude_docs: |
   .pub_min_cache/

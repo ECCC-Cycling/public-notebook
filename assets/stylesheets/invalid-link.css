@@ -1,0 +1,4 @@
+a.invalid-link {
+  text-decoration: line-through;
+  filter: brightness(80%);
+}

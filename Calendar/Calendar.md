@@ -1,5 +1,5 @@
 # Current Calendar
 
-![[Mountain 2024#Mountain 2024 Calendar]]
-
-[[Mountain 2024|More information about Mountain 2024]]
+## Mountain 2025
+<div class="no-embed-header"></div>
+![](../../Seasons/Mountain/Mountain Seasons/Mountain 2025#Mountain 2025 Calendar)

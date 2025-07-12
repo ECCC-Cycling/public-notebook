@@ -1,2 +1,9 @@
 nav:
   - Calendar.md
+  - Past Seasons:
+    - 2024/2025 Calendar: 2024-2025 Calendar
+    - "2023/2024 Calendar": 2023-2024 Calendar
+    - "*"
+
+sort:
+  direction: desc

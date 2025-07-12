@@ -1,0 +1,4 @@
+.no-embed-header + div.citation > :is(h1,h2),
+.no-embed-header + p + div.citation > :is(h1,h2) {
+  display: none;
+}

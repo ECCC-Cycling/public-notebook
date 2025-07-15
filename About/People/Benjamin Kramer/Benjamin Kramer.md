@@ -1,3 +1,5 @@
 ---
 slug: benjamin
+aliases:
+  - Benjamin
 ---

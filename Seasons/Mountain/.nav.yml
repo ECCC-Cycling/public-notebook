@@ -1,0 +1,8 @@
+nav:
+  - Mountain.md
+  - Formats
+  - Seasons:
+    - "*"
+
+sort:
+  direction: desc

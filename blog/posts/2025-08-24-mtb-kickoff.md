@@ -47,3 +47,13 @@ Teams who wish to register via spreadsheet must **email** spreadsheets to the EC
 We are proud to announce that some of our events this season will include intro clinics and races! [[Maris Raisch]] from [[Rochester Institute of Technology|RIT Cycling]] is an experienced coach who will lead clinics for riders new to racing, giving tips on riding and racing, and ensuring participants are familiar with race rules and procedures.
 
 Following the clinic, there will be intro races added to the schedule, allowing new racers to have a smaller field with other novice riders for their first race. Some intro races may be shortened compared to the other fields.
+
+## New Faces
+Along with [[Maris Raisch]] who will be helping with our coaching and intro program, [[Alex Rishty]] is joining our team, with a focus on helping our registration and results processing go smoothly.
+Welcome to the team!
+## Contacting Us
+We are asking all participants (and any other interested parties) to **only** contact us via either the ECCC Discord (in `#general` or `#mtb-chat`) or via group email. [mtb@eccc-cycling.com](mailto:mtb@eccc-cycling.com) for most season topics, [upgrades@eccc-cycling.com](mailto:upgrades@eccc-cycling.com) for upgrade-related questions, and [leadership@eccc-cycling.com](mailto:leadership@eccc-cycling.com) for things that aren't season related. (Or any of the other email addresses listed on the [[Contact]] page)
+
+Please avoid emailing any of us directly unless absolutely required.
+
+Our team is stretched very thin - Flyyn is working 12-hour shifts on an ambulance during the week, and Luke is working and traveling internationally. By sending questions and concerns to the group email, it allows whoever is available first to respond, and keeps us all in the loop.
